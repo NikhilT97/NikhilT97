@@ -1,7 +1,8 @@
 <img src="[https://drive.google.com/file/d/1KDCa8PuJKLtD3xsTzo-KtpqHdIk5JhiL/view](https://drive.google.com/file/d/1KDCa8PuJKLtD3xsTzo-KtpqHdIk5JhiL/view?usp=sharing)">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pritam!;+I'm+MERN-STACK+Developer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil+Tayde!;+I'm+MERN-STACK+Developer!" />
 </h1>
+
 
 
 
@@ -11,8 +12,7 @@
 
 ## About Me
 
-Passionate MERN Stack Developer skilled in React.js, JavaScript, MongoDB, Node.js, and modern UI tools like Tailwind CSS and Chakra UI. Currently honing my skills at Masai School, I thrive in dynamic, fast-paced environments where innovation and collaboration drive success. With a knack for clean code, problem-solving, and quick adoption of Generative AI tools, I’m committed to building scalable, user-focused web applications while continuously learning and evolving.
-
+**Driven MERN Stack Developer** with hands-on experience in **React.js**, **JavaScript**, **MongoDB**, and **Node.js**, complemented by a strong eye for design using **Tailwind CSS** and **Chakra UI**. Currently advancing my development journey at **Masai School**, I thrive in fast-paced, collaborative settings where innovation fuels growth. Known for writing **clean, efficient code** and embracing **Generative AI tools** to streamline development, I focus on crafting **scalable, user-centric web applications** while constantly expanding my skills and staying ahead of industry trends.
 
 ---
 ## 💻 Tech Stack ⚡
@@ -57,19 +57,16 @@ Passionate MERN Stack Developer skilled in React.js, JavaScript, MongoDB, Node.j
 
 ### 📊 GitHub Stats:
 
-![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-
+![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilT97&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ### 🏆 GitHub Streak:
 
-![Pritam's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PRITAMALWAR&theme=dark&hide_border=false)
-
-
+![Nikhil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilT97&theme=dark&hide_border=false)
 
 ### 🌐 Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRITAMALWAR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilT97&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <br/>
 
