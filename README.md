@@ -48,6 +48,17 @@
 
 ---
 
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhiltayde97/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Insights
 
 <p align="center">
@@ -59,17 +70,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilT97&layout=compact&theme=dark&hide_border=false" width="48%" />
 </p>
 
----
 
-## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhiltayde97/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/NikhilT97">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikhilT97" alt="Nikhil_Tayde" />
+</a>
 
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
