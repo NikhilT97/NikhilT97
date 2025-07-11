@@ -62,7 +62,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NikhilT97&show_icons=true&theme=dark&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilT97&theme=dark&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilT97&theme=dark&hide_border=false"/>
 </p>
 
 <p align="center">
